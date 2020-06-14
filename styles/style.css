@@ -191,7 +191,7 @@ flex-wrap: wrap;
   position: relative;
   display: block;
   margin-top: 100px;
-  background: no-repeat left bottom url("../images/feynman.png")
+  background: no-repeat left bottom url("../images/feynman.png");
 }
 
 .feynman__title {
