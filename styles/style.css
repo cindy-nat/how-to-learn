@@ -1,12 +1,3 @@
-
-
-/*Основная часть*/
-
-.content {
-  display: flex;
-flex-wrap: wrap;
-}
-
 .description {
   margin-top: 100px;
 }
