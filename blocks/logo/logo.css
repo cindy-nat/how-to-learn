@@ -1,0 +1,6 @@
+@import url('./_place/logo_place_header.css');
+
+.logo {
+  z-index: 10;
+  background-repeat: no-repeat;
+}
